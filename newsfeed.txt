@@ -1,7 +1,8 @@
 Update v58
 • Updated panels
   • Added supporter panel
-    • Panel text now gets downloaded AFTER you join.
+  • Panel text now gets downloaded AFTER you join.
+
 • Updated lightprobes
 • Updated lighting
 
@@ -148,4 +149,5 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
