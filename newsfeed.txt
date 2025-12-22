@@ -6,6 +6,7 @@ Update v58
 • Updated lighting
 • Added video player
 • Moved couch & table
+• Added colliders to tree logs
 
 Update v57
 • Updated lighting
@@ -150,3 +151,4 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
