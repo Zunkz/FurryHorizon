@@ -1,9 +1,150 @@
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Update v58
+• Updated panels
+  • Added supporter panel
+  • Panel text now gets downloaded AFTER you join.
+• Updated lightprobes
+• Updated lighting
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Update v57
+• Updated lighting
+• Updated fog
+• Added mountains
+• Added snowman
+• Removed building2 due to lighting issues
+• Added holiday props
+• Added winter props
+• Changed smallislands' colors
+• Added holiday lights
+• Updated lamp model
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Update v56
+•  Winter-ified the map
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Update v55
+• Removed Halloween props
+• Updated grass texture
+• Updated tree models
+• Updated lighting
+• Updated cave design slightly 
+• Updated world image
+• Updated skybox slightly
+• Added new props in mainbuilding
+• Added spawn particles
+• Changed spawn colors
+• Updated spawn position
+• Updated spawn area design
+• Updated rock border design
+• Fixed an OOB glitch
+• Uploaded iOS build
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Update v54.1
+• Added moon.
+
+Update v54 
+• Added multiple new Halloween props
+• Changed tree material 
+• Changed grass material 
+• Changed floatingislands colors
+• Swapped some trees to spook-ify
+• Added mushrooms
+• Added more pumpkins
+• Added more graves
+• Added tree stump
+• Added spooky tree
+• Added lanterns on string
+• Added new coffin
+• Added cage
+• Added scarecrow
+• Added book stand
+• Added string of flags
+• Added candycorn 
+• Optimized some lighting 
+• Fixed ramp colliding with light
+• Changed some light brightness
+• Increased skylight intensity by .15
+
+Update v53.1
+• Added pumpkins inside building1
+• Removed collider from table & couch
+• Added fences near building2
+• Added broom near building2
+• Added cauldron near building2
+• Added pumpkins near building2
+
+Update v53
+• Added pumpkins
+• Added cauldron 
+• Added couch
+• Added table
+• Updated lights for spooky mode
+• Added glass to cave
+• Added pumpkin to cave
+
+Update v52.1
+• General Fixes
+
+Update v52
+• Updated spawn
+• Moved news board to spawn
+• Updated news board design
+• Added ramp for mainbuilding roof access
+• Raised mainbuilding
+• Increased spawnradius
+• Updated lighting
+• Optimized lighting
+• Setup light groups
+• Fixed some textures in mainbuilding
+• Removed island2 for now
+• Fixed some barriers
+• Changed ground textures
+
+Update v51
+• Updated reflection probes
+• Added credits board 
+• Fixed barrier issues 
+• Lowered bluelight intensity
+
+Update v50.1
+• General fixes
+
+Update v50
+• Re-made main building from scratch
+   • Will decorate interior soon
+• Updated rock border
+• Mainisland is smaller
+• Added 2nd island
+• Cave design has been updated
+• Lighting has been updated
+• New mirror system 
+• Mirror toggle zone increased
+• Removed some trees
+• Moved some trees
+• Removed item in drawer 
+• Fixed cave barrier
+• Added barrier around map
+• Updated water 
+• Updated VRC Light Volumes
+• Removed old light system
+    • Update your materials 
+• Normal optimizations
+• Lowered download size
+• It's here.
+
+
+Update v49
+• Changed skybox
+• Fixed some stairs
+• Added blue light to mirror area
+• Updated some lighting
+• Fixed TNT position
+
+Update v48
+• Decreased island size (Moved things closer together)
+• Added VRC Light Volumes (update your materials
+• Decreased contrast by 5 (10 -> 5)
+• Increased bloom by .02
+• Updated water
+• Fixed cave out-of-bounds glitch
+• Decreased skylight by 1.2 (2.2 -> 1.0)
+• Updated lighting (For Skybox)
+• Changed skybox (To Dark Space)
