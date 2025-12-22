@@ -1,6 +1,12 @@
-Update v58
+Update v59
 • Added parkour
 • Added double jump
+• Added extra ramp to mainbuilding
+• Fixed a present 
+• Fixed light position on mainbuilding
+• Updated light volumes
+
+Update v58
 • Updated panels
 • Added supporter panel
 • Panels now use string Loader
@@ -153,6 +159,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
