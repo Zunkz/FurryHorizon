@@ -8,6 +8,8 @@ Update v59
 • Fixed a present 
 • Fixed light position on mainbuilding
 • Updated light volumes
+• Removed videoplayer
+• Added more snow piles
 
 Update v58
 • Updated panels
@@ -162,6 +164,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
