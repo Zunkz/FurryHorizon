@@ -1,5 +1,6 @@
 NEWS: 
-Meetup being hosted tonight, join Discord in our group for more information!
+Furry Radio has been updated: 
+"RUDOLPH REINDEER BOY" by alottadogs & russelbuck is now at the top of FurryRadio.com!
 
 Update v59
 • Added parkour
@@ -164,6 +165,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
