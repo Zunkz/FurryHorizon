@@ -1,5 +1,7 @@
 Update v59.1
-• Added Furry Radio update panel!
+• Added Furry Radio update panel
+• Updated tree color slightly
+• Updated error message for news panel
 
 Update v59
 • Added parkour
@@ -164,6 +166,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
