@@ -1,3 +1,9 @@
+Update v69.2
+• Changed info panel back logo
+• Added FurryRadio & Furrest logo to left panel
+• Lowered resolution of Furrest logo (and others)
+• Fixed some shadow issues
+
 Update v59.1
 • Added Furry Radio update panel
 • Updated tree color slightly
@@ -166,6 +172,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
