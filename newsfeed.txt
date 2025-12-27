@@ -6,6 +6,8 @@ Update v60.2
 • Shoved devcube into a rock
 • Updated lighting
 • Fixed a panel glitch
+• Added light probes in new area
+
 
 Update v60.1
 • Added props to new area
@@ -189,6 +191,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
