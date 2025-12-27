@@ -1,3 +1,12 @@
+Update v60.2
+• Added stairs to new area
+• Changed new area left side props
+• Fixed OOB glitch near new area
+• Fixed terrain OOB Glitch
+• Shoved devcube into a rock
+• Updated lighting
+• Fixed a panel glitch
+
 Update v60.1
 • Added props to new area
 • Modified new year's design
@@ -180,6 +189,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
