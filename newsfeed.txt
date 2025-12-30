@@ -1,3 +1,6 @@
+NEWS: 
+We're working hard on the first update for 2026!
+
 Update v60.2
 • Added stairs to new area
 • Changed new area left side props
@@ -192,6 +195,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
