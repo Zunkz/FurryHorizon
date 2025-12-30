@@ -1,6 +1,25 @@
 NEWS: 
 We're working hard on the first update for 2026!
 
+Update v60.3
+• Removed X-Mas props
+• Changed floatingislands colors back to normal
+• Added light volume to newzone
+• Fixed a snow pile's shading
+• Removed WIP imageloading system
+• Removed WIP particle systems
+• Removed WIP product toggle system
+• Removed WIP product listing button
+• NewsImage now uses .jpg format, previously .png
+• Removed old hidden trees
+• Removed old hidden fakemirror
+• Removed hidden dev model for scaling
+• Removed hidden oldhouse area entirely
+• Removed dev cube object
+• Hid MonoLyth mesh
+• Modified spawn slightly
+
+
 Update v60.2
 • Added stairs to new area
 • Changed new area left side props
@@ -195,6 +214,7 @@ Update v48
 • Decreased skylight by 1.2 (2.2 -> 1.0)
 • Updated lighting (For Skybox)
 • Changed skybox (To Dark Space)
+
 
 
 
